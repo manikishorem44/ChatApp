@@ -1,7 +1,4 @@
 # ChatApp
-
-
-# ChatApp
 ChatApp is a chat application developed with a custom designed chat protocol using tcp sockets. UI for this application is made using Tinker. 
 
 # Steps to execute code:
